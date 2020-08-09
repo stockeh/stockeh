@@ -29,7 +29,7 @@
 <br />
 <br />
 
-[![Jason's github stats](https://github-readme-stats.vercel.app/api?username=stockeh&show_icons=true&hide_border=true&count_private=true&hide=contribs&include_all_commits=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff)](https://github.com/stockeh/)
+[![Jason's github stats](https://github-readme-stats.vercel.app/api?username=stockeh&show_icons=true&hide_border=true&count_private=true&hide=contribs&include_all_commits=true)](https://github.com/stockeh/)
 
 [twitter]: https://twitter.com/itsstock
 [instagram]: https://www.instagram.com/jdstock/
