@@ -2,7 +2,7 @@
 
 - 🛰 I’m currently working on my graduate research in machine learning in atmospheric science at [CIRA](http://cira.colostate.edu)
 - 🌱 I’m currently learning about machine learning algorithms, thermodynamics, and the 3D state of the atmosphere
-- 📀 My other areas of inteterest include distributed systems; peer-to-peer systems and distributed file systems
+- 📀 My other areas of interest include distributed systems; peer-to-peer systems and distributed file systems
 - 💬 Ask me about distributed systems, deep learning, webservices, or fun computer science applications [here](https://github.com/stockeh/stockeh/issues)
 - ⚡ Fun facts: I enjoy astrophotography, exploring the mountains, and listening to classic rock
 
