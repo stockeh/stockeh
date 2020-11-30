@@ -6,11 +6,39 @@
 - 💬 Ask me about distributed systems, deep learning, webservices, or fun computer science applications [here](https://github.com/stockeh/stockeh/issues)
 - ⚡ Fun facts: I enjoy astrophotography, exploring the mountains, and listening to classic rock
 
-### Connect with me:
+<br />
 
-[<img align="left" alt="stockeh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="stockeh | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="stockeh | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+### Projects:
+
+#### Machine Learning
+
+- [Reinforcing Canine Behavior in Real-Time with Machine Learning on an Embedded Device](https://github.com/stockeh/canine-embedded-ml)
+- [Clustering Cloud Types from the Geostationary Operational Environmental Satellite (GOES-16)](https://github.com/stockeh/goes-clustering-study)
+- [Strategies for Robust Image Classification](https://github.com/stockeh/augmented-image-classification)
+- [Contrasting Generative Adversarial Networks](https://github.com/stockeh/research/tree/master/gans) - [[nbviewer](https://nbviewer.jupyter.org/github/stockeh/research/blob/master/gans/gan-project.ipynb)]
+- [Observiging Celestial Objects](https://github.com/stockeh/research/tree/master/star-search) - [[nbviewer](https://nbviewer.jupyter.org/github/stockeh/research/blob/master/star-search/stock-starsearch.ipynb)]
+
+#### Distributed Systems
+
+- [Area Mapping in Voluminous Virtual Environments](https://github.com/stockeh/voluminous-virtual-mapping)
+- [Pastry Peer to Peer Network](https://github.com/stockeh/peer-to-peer-network)
+- [A Distributed, Replicated, and Fault Tolerant File System: Contrasting Replication and Erasure Coding](https://github.com/stockeh/fault-tolerant-file-system)
+- [Using Thread Pools & Micro Batching to Manage and Load Balance Active Network Connections](https://github.com/stockeh/scalable-server-design)
+- [Dijkstra's Shortest Paths to Route Packets in a Network Overlay](https://github.com/stockeh/dijkstras-shortest-paths)
+
+#### Big Data Analytics
+
+- [Analyzing on-time performance of commercial flights in the United States using MapReduce](https://github.com/stockeh/mapreduce-analysis-flights)
+- [Detecting the Most Popular Topics from Live Twitter Message Streams using the Lossy Counting Algorithm with Apache Storm](https://github.com/stockeh/storm-twitter-stream)
+- [Using MapReduce to Analyze the Million Song Dataset](https://github.com/stockeh/mapreduce-analysis-msd)
+- [User Analysis and Recommendations from Instacart](https://github.com/stockeh/distributed-spark-analysis)
+- [Relationships Between Crime and Weather in Chicago](https://github.com/stockeh/big-data-weather-crime)
+
+#### Misc
+
+- [Analyzing the Relationship Between Commit Messages and Maintainable Software](https://github.com/stockeh/repo-mining-maintainable-code)
+- [Full Stack Trip Planning Application](https://github.com/stockeh/trip-planning-application)
+- [Content Retrieval Application](https://github.com/stockeh/search-engine)
 
 <br />
 
@@ -43,3 +71,9 @@
 [c++]: https://www.cplusplus.com
 [react]: https://reactjs.org
 [azure]: https://azure.microsoft.com/en-us/
+
+### Connect with me:
+
+[<img align="left" alt="stockeh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="stockeh | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="stockeh | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
