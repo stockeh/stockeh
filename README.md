@@ -1,7 +1,7 @@
 ### Hi there, I'm Jason Stock 👋
 
 - 🛰 I’m currently working on my graduate research in machine learning in atmospheric science at [CIRA](http://cira.colostate.edu)
-- 🌱 I’m currently learning about machine learning algorithms, thermodynamics, and the 3D state of the atmosphere
+- 🌱 I’m currently learning about machine learning algorithms, methods for interpretability AI, and the 3D state of the atmosphere
 - 📀 My other areas of interest include distributed systems; peer-to-peer systems and distributed file systems
 - 💬 Ask me about distributed systems, deep learning, webservices, or fun computer science applications [here](https://github.com/stockeh/stockeh/issues)
 - ⚡ Fun facts: I enjoy astrophotography, exploring the mountains, and listening to classic rock
@@ -32,7 +32,7 @@
 - [User Analysis and Recommendations from Instacart](https://github.com/stockeh/distributed-spark-analysis)
 - [Relationships Between Crime and Weather in Chicago](https://github.com/stockeh/big-data-weather-crime)
 
-#### Misc
+#### Miscellaneous 
 
 - [Analyzing the Relationship Between Commit Messages and Maintainable Software](https://github.com/stockeh/repo-mining-maintainable-code)
 - [Full Stack Trip Planning Application](https://github.com/stockeh/trip-planning-application)
