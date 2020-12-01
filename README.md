@@ -50,6 +50,9 @@
 [<img align="left" alt="React Logo" height="22px" src="https://user-images.githubusercontent.com/27117910/89739148-75a69b00-da3b-11ea-8986-5b2759a39860.png" />][react]
 [<img align="left" alt="Azure Logo" height="22px" src="https://user-images.githubusercontent.com/27117910/89739311-e4382880-da3c-11ea-9a43-e319332d55ae.png" />][azure]
 
+<br />
+<br />
+
 [![Jason's github stats](https://github-readme-stats.vercel.app/api?username=stockeh&show_icons=true&count_private=true&hide=contribs&include_all_commits=true)](https://github.com/stockeh/)
 
 [twitter]: https://twitter.com/itsstock
