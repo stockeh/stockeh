@@ -6,8 +6,6 @@
 - 💬 Ask me about distributed systems, deep learning, webservices, or fun computer science applications [here](https://github.com/stockeh/stockeh/issues)
 - ⚡ Fun facts: I enjoy astrophotography, exploring the mountains, and listening to classic rock
 
-<br />
-
 ### Projects:
 
 #### Machine Learning
@@ -40,8 +38,6 @@
 - [Full Stack Trip Planning Application](https://github.com/stockeh/trip-planning-application)
 - [Content Retrieval Application](https://github.com/stockeh/search-engine)
 
-<br />
-
 ### Languages and Tools:
 
 [<img align="left" alt="Tensorflow Logo" height="22px" src="https://user-images.githubusercontent.com/27117910/89738858-19427c00-da39-11ea-9e29-09bc00a80c9b.png" />][tensorflow]
@@ -53,9 +49,6 @@
 [<img align="left" alt="C++ Logo" height="22px" src="https://user-images.githubusercontent.com/27117910/89739134-50199180-da3b-11ea-85e4-34ef86fe8f1e.png" />][c++]
 [<img align="left" alt="React Logo" height="22px" src="https://user-images.githubusercontent.com/27117910/89739148-75a69b00-da3b-11ea-8986-5b2759a39860.png" />][react]
 [<img align="left" alt="Azure Logo" height="22px" src="https://user-images.githubusercontent.com/27117910/89739311-e4382880-da3c-11ea-9a43-e319332d55ae.png" />][azure]
-
-<br />
-<br />
 
 [![Jason's github stats](https://github-readme-stats.vercel.app/api?username=stockeh&show_icons=true&count_private=true&hide=contribs&include_all_commits=true)](https://github.com/stockeh/)
 
