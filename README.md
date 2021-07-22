@@ -1,7 +1,7 @@
 ### Hi there, I'm Jason Stock 👋
 
-- 🛰 I’m currently working on my graduate research in machine learning in atmospheric science at [CIRA](http://cira.colostate.edu)
-- 🌱 I’m learning about machine learning algorithms, methods for interpretable AI, and the 3D state of the atmosphere
+- 🛰 I’m currently working on my Ph.D. research in computer science (machine learning) with [CSU](https://compsci.colostate.edu)/[AI2ES](https://www.ai2es.org)[CIRA](http://cira.colostate.edu)
+- 🌱 I’m learning about machine learning algorithms, methods for interpretable AI, and digitial image processing techniques
 - 📀 My other areas of interest include distributed systems; peer-to-peer systems and distributed file systems
 - 💬 Ask me about deep learning, distributed systems, webservices, or fun computer science applications [here](https://github.com/stockeh/stockeh/issues)
 - ⚡ Fun facts: I enjoy astrophotography, exploring the mountains, and listening to classic rock
