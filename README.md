@@ -9,7 +9,7 @@
 ### Projects:
 
 #### Machine Learning
-
+- [Subvocal Representations of Natural Language for Text Classification](https://github.com/stockeh/subvocal-text-nlp)
 - [Reinforcing Canine Behavior in Real-Time with Machine Learning on an Embedded Device](https://github.com/stockeh/canine-embedded-ml)
 - [Clustering Cloud Types from the Geostationary Operational Environmental Satellite (GOES-16)](https://github.com/stockeh/goes-clustering-study)
 - [Strategies for Robust Image Classification](https://github.com/stockeh/augmented-image-classification)
