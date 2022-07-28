@@ -9,6 +9,9 @@
 ### Projects:
 
 #### Machine Learning
+- [Base Machine Learning Code](https://github.com/stockeh/mlbase)
+- [Trustworthy AI for Environmental Science Summer School Trust-A-Thon Notebook](https://github.com/stockeh/tai4es-trustathon-2022) - [[nbviewer](https://nbviewer.org/github/stockeh/tai4es-trustathon-2022/blob/main/tropical/notebook-tropical.ipynb)]
+- [Using Machine Learning to Improve Vertical Profiles of Temperature and Moisture for Severe Weather Nowcasting](https://github.com/stockeh/cira-ml-soundings)
 - [Subvocal Representations of Natural Language for Text Classification](https://github.com/stockeh/subvocal-text-nlp)
 - [Reinforcing Canine Behavior in Real-Time with Machine Learning on an Embedded Device](https://github.com/stockeh/canine-embedded-ml)
 - [Clustering Cloud Types from the Geostationary Operational Environmental Satellite (GOES-16)](https://github.com/stockeh/goes-clustering-study)
