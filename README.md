@@ -1,9 +1,10 @@
 ### Hi there, I'm Jason Stock 👋
 
 - 🛰 I’m currently working on my Ph.D. research in computer science (machine learning) with [CSU](https://compsci.colostate.edu)/[AI2ES](https://www.ai2es.org)/[CIRA](http://cira.colostate.edu)
-- 🌱 I focus on simplifying ML algorithms, interpretable-by-design methods, and classical image/signal processing techniques
+- 🌱 I focus on neuro-inspired attention, generative diffusion, and modeling weather and climate change
 - 📀 My other areas of interest include distributed systems; peer-to-peer systems and distributed file systems
 - 💬 Ask me about deep learning, distributed systems, webservices, or fun computer science applications [here](https://github.com/stockeh/stockeh/issues)
+- 📈 Previously employeed @ NVIDIA, Maxar Technologies, and The Boeing Company
 - ⚡ Fun facts: I enjoy astrophotography, exploring the mountains, and listening to classic rock
 
 ### Projects:
@@ -43,8 +44,8 @@
 
 ### Languages and Tools:
 
-[<img align="left" alt="Tensorflow Logo" height="22px" src="https://user-images.githubusercontent.com/27117910/89738858-19427c00-da39-11ea-9e29-09bc00a80c9b.png" />][tensorflow]
 [<img align="left" alt="PyTorch Logo" height="22px" src="https://user-images.githubusercontent.com/27117910/89738889-5b6bbd80-da39-11ea-9024-1547d4207b27.png" />][pytorch]
+[<img align="left" alt="Tensorflow Logo" height="22px" src="https://user-images.githubusercontent.com/27117910/89738858-19427c00-da39-11ea-9e29-09bc00a80c9b.png" />][tensorflow]
 [<img align="left" alt="Python Logo" height="22px" src="https://user-images.githubusercontent.com/27117910/89738910-8bb35c00-da39-11ea-93e3-ee55c34cc3a5.png" />][python]
 [<img align="left" alt="Java Logo" height="22px" src="https://user-images.githubusercontent.com/27117910/89738937-d208bb00-da39-11ea-961e-a4783a1f8a93.png" />][java]
 [<img align="left" alt="Hadoop Logo" height="22px" src="https://user-images.githubusercontent.com/27117910/89739089-f0bb8180-da3a-11ea-9019-91af171ae643.png" />][hadoop]
