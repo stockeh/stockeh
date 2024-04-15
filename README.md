@@ -11,6 +11,7 @@
 
 #### Machine Learning
 - [Base Machine Learning Code](https://github.com/stockeh/mlbase)
+- [Memory-Based Sequential Attention](https://github.com/stockeh/memory-sequential-attention)
 - [Trustworthy AI for Environmental Science Summer School Trust-A-Thon Notebook](https://github.com/stockeh/tai4es-trustathon-2022) - [[nbviewer](https://nbviewer.org/github/stockeh/tai4es-trustathon-2022/blob/main/tropical/notebook-tropical.ipynb)]
 - [Using ML to Improve Vertical Profiles of Temperature and Moisture for Severe Weather Nowcasting](https://github.com/stockeh/cira-ml-soundings)
 - [Subvocal Representations of Natural Language for Text Classification](https://github.com/stockeh/subvocal-text-nlp)
