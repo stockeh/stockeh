@@ -2,7 +2,7 @@
 
 - 🛰 I’m currently working on my Ph.D. research in computer science (machine learning) with [CSU](https://compsci.colostate.edu)/[AI2ES](https://www.ai2es.org)/[CIRA](http://cira.colostate.edu)
 - 🌱 I focus on neuro-inspired attention, generative diffusion, and modeling weather and climate change
-- 📀 My other areas of interest include distributed systems; peer-to-peer systems and distributed file systems
+- 📀 My other areas of interest include distributed systems: peer-to-peer systems and distributed file systems
 - 💬 Ask me about deep learning, distributed systems, webservices, or fun computer science applications [here](https://github.com/stockeh/stockeh/issues)
 - 📈 Previously employeed @ NVIDIA, Maxar Technologies, and The Boeing Company
 - ⚡ Fun facts: I enjoy astrophotography, exploring the mountains, and listening to classic rock
@@ -11,6 +11,10 @@
 
 #### Machine Learning
 - [Base Machine Learning Code](https://github.com/stockeh/mlbase)
+- [Conditional Flow Matching with ODE Solvers (MLX)](https://github.com/stockeh/mlx-cfm)
+- [Double Descent with Polynomial Regression (MLX)](https://github.com/stockeh/mlx-double-descent)
+- [Grokking on Modular Arithmetic in <150 Epochs (MLX)](https://github.com/stockeh/mlx-grokking/tree/main)
+- [Chat with MLX: Connecting Local Documents to Local LLMs](https://github.com/mlx-chat/mlx-chat-app) 
 - [SRViT: Vision Transformers for Estimating Radar Reflectivity from Satellite Observations at Scale](https://github.com/stockeh/srvit)
 - [Memory-Based Sequential Attention](https://github.com/stockeh/memory-sequential-attention)
 - [Trustworthy AI for Environmental Science Summer School Trust-A-Thon Notebook](https://github.com/stockeh/tai4es-trustathon-2022) - [[nbviewer](https://nbviewer.org/github/stockeh/tai4es-trustathon-2022/blob/main/tropical/notebook-tropical.ipynb)]
