@@ -1,4 +1,6 @@
-### Hi there, I'm Jason Stock 👋
+### Hi there, I'm Jason Stock 👋 
+[<img align="left" alt="stockeh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="stockeh | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]<br/>
 
 - 🛰 I’m currently working on my Ph.D. research in computer science (machine learning) with [CSU](https://compsci.colostate.edu)/[AI2ES](https://www.ai2es.org)/[CIRA](http://cira.colostate.edu)
 - 🌱 I focus on neuro-inspired attention, generative diffusion, and modeling weather and climate change
@@ -7,17 +9,14 @@
 - 📈 Previously employed @ NVIDIA, Maxar Technologies, and The Boeing Company
 - ⚡ Fun facts: I enjoy astrophotography, exploring the mountains, and listening to classic rock
 
-### Projects:
-
-#### Machine Learning
+### Machine Learning
 - [Base Machine Learning Code](https://github.com/stockeh/mlbase)
-- [Conditional Flow Matching with ODE Solvers (MLX)](https://github.com/stockeh/mlx-cfm)
-- [Double Descent with Polynomial Regression (MLX)](https://github.com/stockeh/mlx-double-descent)
-- [Grokking on Modular Arithmetic in <150 Epochs (MLX)](https://github.com/stockeh/mlx-grokking/tree/main)
-- [Chat with MLX: Connecting Local Documents to Local LLMs](https://github.com/mlx-chat/mlx-chat-app) 
+- [(MLX) Conditional Flow Matching with ODE Solvers](https://github.com/stockeh/mlx-cfm)
+- [(MLX) Double Descent with Polynomial Regression](https://github.com/stockeh/mlx-double-descent)
+- [(MLX) Grokking on Modular Arithmetic in <150 Epochs](https://github.com/stockeh/mlx-grokking/tree/main)
+- [(MLX) Chat with MLX: Locally Connecting Documents to LLMs](https://github.com/mlx-chat/mlx-chat-app) 
 - [SRViT: Vision Transformers for Estimating Radar Reflectivity from Satellite Observations at Scale](https://github.com/stockeh/srvit)
 - [Memory-Based Sequential Attention](https://github.com/stockeh/memory-sequential-attention)
-- [Trustworthy AI for Environmental Science Summer School Trust-A-Thon Notebook](https://github.com/stockeh/tai4es-trustathon-2022) - [[nbviewer](https://nbviewer.org/github/stockeh/tai4es-trustathon-2022/blob/main/tropical/notebook-tropical.ipynb)]
 - [Using ML to Improve Vertical Profiles of Temperature and Moisture for Severe Weather Nowcasting](https://github.com/stockeh/cira-ml-soundings)
 - [Subvocal Representations of Natural Language for Text Classification](https://github.com/stockeh/subvocal-text-nlp)
 - [Reinforcing Canine Behavior in Real-Time with Machine Learning on an Embedded Device](https://github.com/stockeh/canine-embedded-ml)
@@ -25,8 +24,10 @@
 - [Strategies for Robust Image Classification](https://github.com/stockeh/augmented-image-classification)
 - [Contrasting Generative Adversarial Networks](https://github.com/stockeh/research/tree/master/gans) - [[nbviewer](https://nbviewer.jupyter.org/github/stockeh/research/blob/master/gans/gan-project.ipynb)]
 - [Observiging Celestial Objects](https://github.com/stockeh/research/tree/master/star-search) - [[nbviewer](https://nbviewer.jupyter.org/github/stockeh/research/blob/master/star-search/stock-starsearch.ipynb)]
+- [Trustworthy AI for Environmental Science Summer School Trust-A-Thon Notebook](https://github.com/stockeh/tai4es-trustathon-2022) - [[nbviewer](https://nbviewer.org/github/stockeh/tai4es-trustathon-2022/blob/main/tropical/notebook-tropical.ipynb)]
+- [Machine Learning: Fundamentals and Architectures](https://github.com/d4hackweek/d4book/blob/main/book/tutorials/machine-learning/ml-tutorial-notebook.ipynb) - [[nbviewer](https://nbviewer.org/github/d4hackweek/d4book/blob/main/book/tutorials/machine-learning/ml-tutorial-notebook.ipynb)]
 
-#### Distributed Systems
+### Distributed Systems
 
 - [Area Mapping in Voluminous Virtual Environments](https://github.com/stockeh/voluminous-virtual-mapping)
 - [Pastry Peer to Peer Network](https://github.com/stockeh/peer-to-peer-network)
@@ -34,7 +35,7 @@
 - [Using Thread Pools & Micro Batching to Manage and Load Balance Active Network Connections](https://github.com/stockeh/scalable-server-design)
 - [Dijkstra's Shortest Paths to Route Packets in a Network Overlay](https://github.com/stockeh/dijkstras-shortest-paths)
 
-#### Big Data Analytics
+### Big Data Analytics
 
 - [Analyzing on-time performance of commercial flights in the United States using MapReduce](https://github.com/stockeh/mapreduce-analysis-flights)
 - [Detecting the Most Popular Topics from Live Twitter Message Streams using the Lossy Counting Algorithm with Apache Storm](https://github.com/stockeh/storm-twitter-stream)
@@ -42,7 +43,7 @@
 - [User Analysis and Recommendations from Instacart](https://github.com/stockeh/distributed-spark-analysis)
 - [Relationships Between Crime and Weather in Chicago](https://github.com/stockeh/big-data-weather-crime)
 
-#### Miscellaneous 
+### Miscellaneous 
 
 - [Analyzing the Relationship Between Commit Messages and Maintainable Software](https://github.com/stockeh/repo-mining-maintainable-code)
 - [Full Stack Trip Planning Application](https://github.com/stockeh/trip-planning-application)
@@ -77,9 +78,3 @@
 [c++]: https://www.cplusplus.com
 [react]: https://reactjs.org
 [azure]: https://azure.microsoft.com/en-us/
-
-### Connect with me:
-
-[<img align="left" alt="stockeh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="stockeh | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="stockeh | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
