@@ -2,8 +2,8 @@
 [<img align="left" alt="stockeh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="stockeh | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]<br/>
 
-- 🛰 I’m currently working on my Ph.D. research in computer science (machine learning) with [CSU](https://compsci.colostate.edu)/[AI2ES](https://www.ai2es.org)/[CIRA](http://cira.colostate.edu)
-- 🌱 I focus on neuro-inspired attention, generative diffusion, and modeling weather and climate change
+- 🛰 I earned my PhD in computer science (machine learning) with [CSU](https://compsci.colostate.edu)/[AI2ES](https://www.ai2es.org)/[CIRA](http://cira.colostate.edu)
+- 🌱 I focus on neuro-inspired attention, generative diffuion/flow matching, reinforcement learning, and weather and climate modeling
 - 📀 My other areas of interest include distributed systems: peer-to-peer systems and distributed file systems
 - 💬 Ask me about deep learning, distributed systems, webservices, or fun computer science applications [here](https://github.com/stockeh/stockeh/issues)
 - 📈 Previously employed @ NVIDIA, Maxar Technologies, and The Boeing Company
