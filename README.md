@@ -1,6 +1,8 @@
 ### Hi there, I'm Jason Stock 👋 
-[<img align="left" alt="stockeh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="stockeh | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]<br/>
+[![twitter](https://img.shields.io/badge/@itsstock-000000?logo=x&logoColor=white)](https://x.com/itsstock)
+[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jason-stock/)
+![stars](https://img.shields.io/github/stars/stockeh?style=social)
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=stockeh)
 
 - 🛰 I earned my PhD in computer science (machine learning) with [CSU](https://compsci.colostate.edu)/[AI2ES](https://www.ai2es.org)/[CIRA](http://cira.colostate.edu)
 - 🌱 I focus on neuro-inspired attention, generative diffuion/flow matching, reinforcement learning, and weather and climate modeling
@@ -65,6 +67,8 @@
 <br />
 
 [![Jason's github stats](https://github-readme-stats.vercel.app/api?username=stockeh&show_icons=true&count_private=true&hide=contribs&include_all_commits=true)](https://github.com/stockeh/)
+
+![](https://img.shields.io/github/last-commit/stockeh/stockeh)
 
 [twitter]: https://twitter.com/itsstock
 [instagram]: https://www.instagram.com/jdstock/
