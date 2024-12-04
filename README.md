@@ -13,6 +13,7 @@
 
 ### Machine Learning
 - [Base Machine Learning Code](https://github.com/stockeh/mlbase)
+- [(MLX) Experiment with New Optimization Algorithms](https://github.com/stockeh/mlx-optimizers)
 - [(MLX) Conditional Flow Matching with ODE Solvers](https://github.com/stockeh/mlx-cfm)
 - [(MLX) Double Descent with Polynomial Regression](https://github.com/stockeh/mlx-double-descent)
 - [(MLX) Grokking on Modular Arithmetic in <150 Epochs](https://github.com/stockeh/mlx-grokking/tree/main)
