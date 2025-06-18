@@ -5,7 +5,7 @@
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=stockeh)
 
 - 🛰 I earned my PhD in computer science (machine learning) with [CSU](https://compsci.colostate.edu)/[AI2ES](https://www.ai2es.org)/[CIRA](http://cira.colostate.edu)
-- 🌱 I focus on neuro-inspired attention, generative diffuion/flow matching, reinforcement learning, and weather and climate modeling
+- 🌱 Focused on neuro-inspired attention, generative diffuion/flow matching, reinforcement learning, and weather and climate modeling
 - 📀 My other areas of interest include distributed systems: peer-to-peer systems and distributed file systems
 - 💬 Ask me about deep learning, distributed systems, webservices, or fun computer science applications [here](https://github.com/stockeh/stockeh/issues)
 - 📈 Previously @ NVIDIA, Maxar Technologies, and The Boeing Company
