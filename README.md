@@ -13,6 +13,7 @@
 
 ### Machine Learning
 - [Base Machine Learning Code](https://github.com/stockeh/mlbase)
+- [(MLX) Recurrsive Reasoning with Tiny Networks (reimplementation)](https://github.com/stockeh/mlx-trm)
 - [(MLX) Experiment with New Optimization Algorithms](https://github.com/stockeh/mlx-optimizers)
 - [(MLX) Conditional Flow Matching with ODE Solvers](https://github.com/stockeh/mlx-cfm)
 - [(MLX) Double Descent with Polynomial Regression](https://github.com/stockeh/mlx-double-descent)
