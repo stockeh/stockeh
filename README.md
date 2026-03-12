@@ -12,13 +12,15 @@
 - ⚡ Fun facts: I enjoy astrophotography, exploring the mountains, and listening to classic rock
 
 ### Machine Learning
-- [Base Machine Learning Code](https://github.com/stockeh/mlbase)
+- [(MLX) Generatiev Modeling via Drifiting](https://github.com/stockeh/mlx-drifting-model)
 - [(MLX) Recursive Reasoning with Tiny Networks (reimplementation)](https://github.com/stockeh/mlx-trm)
 - [(MLX) Experiment with New Optimization Algorithms](https://github.com/stockeh/mlx-optimizers)
 - [(MLX) Conditional Flow Matching with ODE Solvers](https://github.com/stockeh/mlx-cfm)
 - [(MLX) Double Descent with Polynomial Regression](https://github.com/stockeh/mlx-double-descent)
 - [(MLX) Grokking on Modular Arithmetic in <150 Epochs](https://github.com/stockeh/mlx-grokking/tree/main)
-- [(MLX) Chat with MLX: Locally Connecting Documents to LLMs](https://github.com/mlx-chat/mlx-chat-app) 
+- [(MLX) Chat with MLX: Locally Connecting Documents to LLMs](https://github.com/mlx-chat/mlx-chat-app)
+- [Base Machine Learning Code](https://github.com/stockeh/mlbase)
+- [An Autoregressive Consistency Model for Efficient Weather Forecasting](https://github.com/stockeh/swift)
 - [SRViT: Vision Transformers for Estimating Radar Reflectivity from Satellite Observations at Scale](https://github.com/stockeh/srvit)
 - [Memory-Based Sequential Attention](https://github.com/stockeh/memory-sequential-attention)
 - [Using ML to Improve Vertical Profiles of Temperature and Moisture for Severe Weather Nowcasting](https://github.com/stockeh/cira-ml-soundings)
