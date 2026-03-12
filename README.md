@@ -52,7 +52,6 @@ A file system that integrates and compare replication and erasure coding strateg
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=stockeh&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=00000000&title_color=777777&text_color=888888&icon_color=999999"/>
-    <img src="https://streak-stats.demolab.com?user=stockeh&hide_border=true&background=00000000&ring=999999&fire=999999&currStreakLabel=777777&sideNums=888888&currStreakNum=888888&dates=777777"/>
-
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=stockeh&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=00000000&title_color=777777&text_color=888888&icon_color=999999"/>
+  <img height="150" src="https://streak-stats.demolab.com?user=stockeh&hide_border=true&background=00000000&ring=999999&fire=999999&currStreakLabel=777777&sideNums=888888&currStreakNum=888888&dates=777777"/>
 </p>
