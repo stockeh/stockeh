@@ -45,8 +45,6 @@ A scalable cloud architecture for large shared environments using spatial partio
 A file system that integrates and compare replication and erasure coding strategies for reliable storage.  
 [repo](https://github.com/stockeh/fault-tolerant-file-system)
 
-## Activity
-
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=stockeh&hide_border=true&hide_title=true&bg_color=00000000&color=777777&line=999999&point=aaaaaa&area=true&area_color=dddddd"/>
 </p>
