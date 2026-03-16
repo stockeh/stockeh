@@ -5,7 +5,7 @@
 ![stars](https://img.shields.io/github/stars/stockeh?style=social)
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=stockeh)
 
-Machine Learning Scientist @ [Argonne National Laboratory](https://www.anl.gov/) and Building [Harness Labs](https://github.com/harnesslabs).  
+Machine Learning Scientist @ [Argonne National Laboratory](https://www.anl.gov/) also Building [Harness Labs](https://github.com/harnesslabs).  
 
 I obsess with understanding how machines learn and using them for science. My general interests are in:
 
